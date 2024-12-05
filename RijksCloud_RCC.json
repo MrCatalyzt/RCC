@@ -1,0 +1,1319 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 279,
+          "y": 284,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">RijksCloud!</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 780,
+          "y": 685,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 15,
+          "text": "<font color=\"#000000\" face=\"Droid Sans Mono, monospace\">Visie op RijksCloud!<br>Nov 2016<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": true,
+      "x": 502,
+      "y": 183
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 331,
+          "y": 288,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Drijfveer<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 455,
+          "y": 415,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\"><i>Onze missie</i><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 904,
+      "y": 182
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 55,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><font face=\"Ubuntu, sans-serif\">De wereld <b>verandert</b></font></span></div><font face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\">ingrijpend</span></div><font color=\"#000000\"><div style=\"text-align: center;\">ongekend <b>snel</b></div></font></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 297,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu;\">RijksCloud zorgt voor <b>aansluiting</b> in deze verandering,</span></div><font color=\"#000000\" face=\"Ubuntu\"><div style=\"text-align: center;\">en helpt deze te <b>vormen</b></div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 486,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><i>Het Nederland van de Toekomst bouwen wij met de ICT van Nu.  Wij werken voor Nederland.</i></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 902,
+      "y": 375
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 331,
+          "y": 288,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Dromen<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 444,
+          "y": 415,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\"><i>Onze visie</i><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1343,
+      "y": 177
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 432,
+          "y": 301,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">2020</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1348,
+      "y": 372
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 368,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">RijksCloud is hét platform voor ICT services</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 6,
+          "y": 109,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "<div style=\"text-align: left;\"><div style=\"text-align: left;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif; text-align: center;\">RijksCloud is een breed (binnen en buiten de overheid) erkend succes</span></div><div style=\"text-align: center;\"><font color=\"#000000\" face=\"Ubuntu, sans-serif\"><br></font></div><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif; text-align: center;\"><div style=\"text-align: center;\">Voor overheids-ICT wordt RijksCloud in één adem genoemd</div></span><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif; text-align: center;\"><div style=\"text-align: center;\">&nbsp; &nbsp; met de grote publieke cloud aanbieders</div></span></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 262,
+          "y": 543,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\">in diverse clouds</span></div><div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\">&nbsp;voor alle partijen die Rijks IV leveren</span><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1349,
+      "y": 570
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 109,
+          "y": 262,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 44,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu;\">SSC-I is binnen RijksCloud</span></div><div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu;\">een erkende <b>toonaangevende</b>&nbsp;autoriteit</span></div><font color=\"#000000\" face=\"Ubuntu\"><div style=\"text-align: center;\"><br></div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 767
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">De RijksCloud is de realisatie van wat door Digicommissaris<br>Eenhoorn is omschreven als Generieke Digitale Infrastructuur (GDI):</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 353,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 27,
+          "text": "<i><font face=\"Ubuntu, sans-serif\">\"De generieke digitale infrastructuur van de overheid (<b>GDI</b>) bestaat<br>&nbsp;uit standaarden, producten en voorzieningen&nbsp;die gezamenlijk gebruikt<br>worden door&nbsp;(alle) meerdere overheden, vele publieke organisaties en<br>in een aantal gevallen ook door private partijen.<br><br>&nbsp; &nbsp; · De <b>GDI</b> is een onmisbaar deel van de (digitale) basisvoorzieningen<br>&nbsp; &nbsp; &nbsp; &nbsp;waarmee organisaties hun primaire processen inrichten.<br><br>&nbsp; &nbsp; · De <b>GDI</b> is, naar zijn aard, niet organisatie-, sector- of domeinspecifiek.\"</font></i><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 960
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">De RijksCloud is de realisatie van wat door Digicommissaris<br>Eenhoorn is omschreven als Generieke Digitale Infrastructuur (GDI):</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 353,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 27,
+          "text": "<i><font face=\"Ubuntu, sans-serif\">\"De generieke digitale infrastructuur van de overheid (<b>RijksCloud</b>) bestaat<br>&nbsp;uit standaarden, producten en voorzieningen&nbsp;die gezamenlijk gebruikt<br>worden door&nbsp;(alle) meerdere overheden, vele publieke organisaties en<br>in een aantal gevallen ook door private partijen.<br><br>&nbsp; &nbsp; · De <b>RijksCloud</b> is een onmisbaar deel van de (digitale) basisvoorzieningen<br>&nbsp; &nbsp; &nbsp; &nbsp;waarmee organisaties hun primaire processen inrichten.<br><br>&nbsp; &nbsp; · De <b>RijksCloud</b> is, naar zijn aard, niet organisatie-, sector- of domeinspecifiek.\"</font></i><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1352,
+      "y": 1160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 85,
+          "y": 159,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 76,
+          "text": "<font face=\"Ubuntu\" color=\"#fafafa\">RijksCloud is Daft Punk</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 294,
+          "y": 286,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 93,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu;\"><b><font color=\"#fafafa\">Harder!</font></b></span></div><font face=\"Ubuntu\" color=\"#fafafa\"><b><div style=\"text-align: center;\">Better!</div><div style=\"text-align: center;\">Faster!</div><div style=\"text-align: center;\">Stronger!</div></b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "background": "img:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Daft_Punk_in_2013_2-_centered.jpg/1280px-Daft_Punk_in_2013_2-_centered.jpg",
+      "x": 1350,
+      "y": 1362,
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#fafafa\">Text</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">De <b>gesloten</b> Rijkscloud is <b>Open!</b></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 1556
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 251,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><font face=\"Ubuntu, sans-serif\">Open voor <b>gebruikers</b></font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><font face=\"Ubuntu, sans-serif\"><br></font></span></div><font color=\"#000000\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">Ambtenaren, bedrijven én burgers</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 1752
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\">Open voor </span><b style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\">Business</b></div><font face=\"Ubuntu, sans-serif\" color=\"#000000\"><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Rijks ICT-organisaties</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 1959
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 359,
+          "y": 277,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\">Open voor <b>Partners</b></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\"><b><br></b></span></div><font face=\"Ubuntu, sans-serif\" color=\"#000000\"><div style=\"text-align: center;\">‘De markt’</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1353,
+      "y": 2174
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 310,
+          "y": 263,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\"><font color=\"#000000\">Open voor <b>controle</b>&nbsp;</font></span></div><font face=\"Ubuntu, sans-serif\" color=\"#000000\"><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Auditdienst Rijk, Dekra etc.</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1354,
+      "y": 2385
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 191,
+          "y": 296,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu;\">Open <b>standaarden</b></span></div><font color=\"#000000\" face=\"Ubuntu\"><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">het fundament voor RijksCloud Services</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1355,
+      "y": 2580
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 159,
+          "y": 226,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><font color=\"#000000\" face=\"Ubuntu\"><br></font></div><font color=\"#000000\" face=\"Ubuntu\"><div style=\"text-align: center;\">RijksCloud is een <b>merk</b>&nbsp;</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">dat staat voor betrouwbaarheid en eenvoud:</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">‘<b>it just works</b>’</div><div style=\"text-align: center;\"></div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1358,
+      "y": 2779
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 331,
+          "y": 288,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Denken<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 1827,
+      "y": 175
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 302,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><b>Samenwerking</b> tussen Rijks-ICT-aanbieders belangrijker is dan onderlinge concurrentie</font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\">Deze<b style=\"font-weight: bold;\"> eenvormig</b><b style=\"font-weight: bold;\"> is voor gebruikers (de IV/ICT organisaties): Vier ODC’s, één RijksCloud</b></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\">Deze <b>hybride</b> is van opzet; private services in ODC’s én publieke cloud services</font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\">Voldoende <b>omvang</b> heeft</font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\">Een brede én diepe <b>serviceportfolio</b> kent</font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\">Service realisatie in technisch perspectief is gebouwd in <b>API's</b></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><br></div>",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">RijksCloud is een succes</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 444,
+          "y": 175,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 34,
+          "text": "omdat<br>",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 1829,
+      "y": 374
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/wbbu3V0.png",
+          "type": "Image",
+          "x": 242,
+          "y": 147,
+          "scale": {
+            "x": 0.8627450980392157,
+            "y": 0.8627450980392157,
+            "width": 572,
+            "height": 575.4509803921569
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 247,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">4 ODC's - 1 Cloud</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1829,
+      "y": 578
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/8ffdnVF.png",
+          "type": "Image",
+          "x": 9,
+          "y": 302,
+          "scale": {
+            "x": 1.4185393258426966,
+            "y": 1.4185393258426966,
+            "width": 1010,
+            "height": 136.17977528089887
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 105,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">Private én public services</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 1829,
+      "y": 780
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 331,
+          "y": 288,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Durven<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 2308,
+      "y": 156
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 289,
+          "y": 286,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 46,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;\">Visie uitbouwen</span></div><font color=\"#000000\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">en gaan ‘evangeliseren’</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 2307,
+      "y": 363
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 327,
+          "y": 281,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\" color=\"#000000\">Onconventioneel</font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\" color=\"#000000\"><br></font></div><div style=\"text-align: center;\"><font face=\"Ubuntu, sans-serif\" color=\"#000000\">Buiten de lijntjes kleuren</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 2310,
+      "y": 568
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 60,
+          "y": 219,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 57,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu; color: rgb(0, 0, 0);\">Gericht op morgen, niet op vandaag</span></div><font color=\"#000000\"><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Durf los te laten</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 2311,
+      "y": 768
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 388,
+          "y": 291,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Doen<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 2811,
+      "y": 152
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "<font face=\"Ubuntu, sans-serif\" color=\"#000000\">Bouw een <b>team</b><br><br><br>Vertel de droom, deel de <b>visie</b><br><br><br>Rjiks-samenwerking cultiveren naar model van open source <b>communities</b><br><br><br>CJIB, DUO als belangrijke <b>Rijkspartners</b><br>&nbsp; &nbsp; Werk met DUO samen voor IaaS<br>&nbsp; &nbsp; Werk met CJIB samen<br>&nbsp; &nbsp; &nbsp; &nbsp; Maak samen een <b>container-service</b><br>&nbsp; &nbsp; &nbsp; &nbsp; Realiseer CI/CD <b>pipeline</b><br><br><br>Bouw actief aan <b>externe partnering</b><br>&nbsp; &nbsp; Bijv. Schuberg Philis, MS, AWS, Google</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 2815,
+      "y": 349
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 177,
+          "y": 219,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 49,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">Ontwikkel het <b>merk</b> RijksCloud<br><br>Ontwerp en lever cloud-<b>services</b><br><br><div style=\"text-align: center;\">&nbsp;<br></div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 2816,
+      "y": 558
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 107,
+          "text": "<font face=\"Ubuntu, sans-serif\"><b style=\"\"><font color=\"#d62d2d\">Moet</font></b> </font><font face=\"Ubuntu, sans-serif\"><font color=\"#969696\">ik dit nu doen?</font><br><font color=\"#969696\">Moet</font><font color=\"#000000\"> </font><b style=\"\"><font color=\"#d62d2d\">ik</font></b><font color=\"#000000\"> </font><font color=\"#969696\">dit nu doen?</font><br><font color=\"#969696\">Moet ik </font><b style=\"\"><font color=\"#d62d2d\">dit</font></b><font color=\"#969696\"> nu doen?</font><br><font color=\"#969696\">Moet ik dit </font><b style=\"\"><font color=\"#d62d2d\">nu</font></b><font color=\"#969696\"> doen?</font><br><font color=\"#969696\">Moet ik dit nu </font><b style=\"\"><font color=\"#d62d2d\">doen</font></b><font color=\"#969696\">?</font></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 2820,
+      "y": 763,
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 276,
+          "y": 281,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Doorzetten<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 3289,
+      "y": 154
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 165,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 56,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Ubuntu;\">Design to fail in techniek</span></div><font face=\"Ubuntu\" color=\"#000000\"><div style=\"text-align: center;\">maar ook in aanpak.</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">‘reduce the cost of failure’</div><div style=\"text-align: center;\">Denk groot, begin klein</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Houd de droom levend</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 3292,
+      "y": 342
+    },
+    {
+      "components": [
+        {
+          "src": "http://oddstuffmagazine.com/wp-content/uploads/2014/08/Success-is-going-from-failure-Winston-Churchill.jpg",
+          "type": "Image",
+          "x": -1,
+          "y": 59,
+          "scale": {
+            "x": 0.6101190476190476,
+            "y": 0.6101190476190476,
+            "width": 1025,
+            "height": 622.3214285714286
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://www.womenscorner.com.bd/media/imgAll/2022July/Winston-Churchill-Quotes-20230128052238.jpg",
+          "type": "Image",
+          "x": 99,
+          "y": 162,
+          "scale": {
+            "x": 1.1420689655172414,
+            "y": 1.1420689655172414,
+            "width": 828,
+            "height": 456.8275862068965
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "background": "bg-default",
+      "x": 3293,
+      "y": 553
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 433,
+          "y": 302,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "1969",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 3793,
+      "y": 146
+    },
+    {
+      "components": [
+        {
+          "src": "https://media.pinkroccadelocalgovernment.nl/pinkroccade-cache/b/9/f/0/5/9/b9f0596eb3349804641f1d6ac67c758a9f5b6f6e.png",
+          "type": "Image",
+          "x": 210,
+          "y": 54,
+          "scale": {
+            "x": 0.619914346895075,
+            "y": 0.619914346895075,
+            "width": 579,
+            "height": 593.8779443254818
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 192,
+          "y": 679,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 39,
+          "text": "<font color=\"#000000\" face=\"Abril Fatface, cursive\">RCC - Het <b>R</b>ijks <b>C</b>omputer <b>C</b>entrum</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "background": "bg-default",
+      "x": 3794,
+      "y": 333,
+      "surface": "bg-default"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 432,
+          "y": 301,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">2020</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 3792,
+      "y": 541
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 420,
+          "text": "<font color=\"#fafafa\" face=\"Ubuntu, sans-serif\">RCC</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 531,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 82,
+          "text": "<font color=\"#fafafa\"><b>R</b>ijks <b>C</b>loud <b>C</b>ommunity</font><br>",
+          "selected": false,
+          "customClasses": ""
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "background": "img:http://electronicsofthings.com/wp-content/uploads/2016/05/connectedworld.jpg",
+      "x": 3799,
+      "y": 758,
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 300,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 175,
+          "text": "<font color=\"#fafafa\" face=\"Ubuntu, sans-serif\">RijksCloud!</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 506,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<font color=\"#fafafa\" face=\"Ubuntu\">Powered by CJIB, DUO, SSC-I, ... <br></font>",
+          "selected": false,
+          "customClasses": ""
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "background": "img:http://electronicsofthings.com/wp-content/uploads/2016/05/connectedworld.jpg",
+      "x": 3801,
+      "y": 975,
+      "surface": "bg-surf-grad-sky"
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 279,
+        "y": 284,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 96,
+        "text": "<font face=\"Ubuntu\" color=\"#000000\">RijksCloud!</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 780,
+        "y": 685,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 15,
+        "text": "<font color=\"#000000\" face=\"Droid Sans Mono, monospace\">Visie op RijksCloud!<br>Nov 2016<br></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": false,
+    "active": true,
+    "x": 502,
+    "y": 183
+  },
+  "fileName": "RijksCloud_RCC",
+  "surface": "bg-surf-grad-light",
+  "customStylesheet": "",
+  "deckVersion": "1.0",
+  "cannedTransition": "cards",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 2151.5,
+  "overviewY": 1462.5
+}
